@@ -25,8 +25,8 @@ Clone or Download in zip the project and follow the below steps:
 After Downloading
 
 1) Create Database named as bridge in Mysql
-2) Make changes in 'conn.php' file (update username and password of MySQL server and/or any other chages according to your system)
-3) Update the value in the 'uploadFilePath' variable in 'login.php' file. (The uploaded resume by candidates will get stored in that location in server) 
+2) Make changes in '/members_area/config.php' file (update username and password of MySQL server and/or any other chages according to your system)
+3) Update the value in the 'uploadFilePath' variable in '/members_area/login.php' file. (The uploaded resume by candidates will get stored in that location in server) 
 4) Update Google API key for recaptcha API
 ```
 ## Author
