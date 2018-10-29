@@ -1,0 +1,49 @@
+<style>
+	body{
+		padding-top: 40px;
+		  
+
+	}
+
+  .nav{
+    height:10px;
+  }
+b1 {
+  float: right;
+  overflow: hidden;
+  position: relative;
+  height: 22px;
+  font-weight:bold;
+  font-size: 20px;
+}
+section{
+  padding-left: 20px;
+}
+.jumbotron
+{
+  background-color:#000000;
+  color:white;
+  height:450px;
+}
+span1 {
+  display: inline-block;
+    color: #e74c3c;
+    position: relative;
+    white-space: nowrap;
+    top: 4px;
+    left: 0;
+-webkit-animation: move 5s;
+-webkit-animation-iteration-count: infinite;
+-webkit-animation-delay: 1s;
+}
+#heading{
+
+    font-size: 140px;
+}
+
+
+.form-group.required .control-label:after { 
+   content:"*";
+   color:red;
+}
+</style>
